@@ -2,4 +2,4 @@
 
 Click the button below to access these files in an online JupyterLab environment.
 
-[![Binder:master](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neagan01/chbe202_binder/HEAD)
+[![Binder:master](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neagan01/chbe202_repo/HEAD)
